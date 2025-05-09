@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shaolin!</h1>
 <h3 align="center">A passionate data scientist in the making and a software engineering undergrad from TMU!</h3>
 
-- 🔭 I’m currently working on a **Nail Business Power BI Dashboard for an independent nail technician to track key business metrics**
+- 🔭 I’m currently working on a [Nail Business Power BI Dashboard for an independent nail technician to track key business metrics](https://github.com/shaoshaooo/Nail-Business-Analytics-Dashboard)
 
-- 🌱 I’m currently learning **Pandas in Python, Data Visualization tools such as Azure, Power BI, chart.js, Streamlit, Advanced SQL**
+- 🌱 I’m currently learning **Pandas in Python, Data Visualization tools such as Power BI, chart.js, Streamlit, Advanced SQL**
 
-- 👯 I’m looking for **Data Scientist, Data Analyst and Business Analyst Co-op opportunities starting Fall'25!**
+- 👯 I’m looking for **Data Science and Analyst Co-op opportunities starting Fall'25!**
 
-- 💬 Ask me about **my work ethics and experience!**
+- 💬 Ask me about **my work experience!**
 
 - ⚡ Fun fact: **I swear by thrifting!**
 
